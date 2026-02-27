@@ -121,7 +121,7 @@ ___
 ## Author 
  **Tendai Sinkala**
  Data Analyst | Healthcare & Business Analytics
- sinkala99@gmail.com
+ sinkalat99@gmail.com
 
 ## Future Improvements
 
