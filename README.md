@@ -18,3 +18,8 @@ ___
 - **Kaggle Dataset**
 ___
 ## Project Structure
+```
+ecommerce-customer-analytics/
+    notebooks/
+        01_data_cleaning.ipynb
+        02_revenue_kpi_analysis.ipynb
