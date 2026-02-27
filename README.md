@@ -10,3 +10,11 @@ ___
 - Predict customer churn using machine learning
 ___
 ## Tools & Technologies
+- **Python**
+- **Pandas & NumPy**
+- **Matplotlib**
+- **Scikit-learn**
+- **Jupyter Notebook**
+- **Kaggle Dataset**
+___
+## Project Structure
